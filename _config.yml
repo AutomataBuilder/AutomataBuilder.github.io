@@ -1,2 +1,3 @@
 name: Zhencheng, Coder, Puzzle Lover
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
